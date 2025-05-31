@@ -5,7 +5,7 @@
 <br>
 
 $$
-\large\text{\color{lime}{ ❕ More info to be added soon ❕ }}
+\large\text{\color{orange}{ ❕ More info to be added soon ❕ }}
 $$
 
 <hr>
@@ -14,7 +14,7 @@ $$
 Hey data enthusiasts! 👋
 <br>
 <br>
-> Get ready to say <i>goodbye to fruitless job application submissions!</i>
+Get ready to say <i>goodbye to fruitless job application submissions!</i>
 <br>This comprehensive guide will teach you all you need to know to create a portfolio that will lead to data possibilities, even if you're just starting out. STOP applying to hundreds of job applications alone. Begin building projects that attract employers to you.
 
 <br>
