@@ -1,4 +1,4 @@
-# Unlock Your Data Career: A Portfolio-First Guide to Stand Out in 2025 [BLOG-Medium](https://medium.com/p/1feccf56589b/edit)
+# Unlock Your Data Career: A Portfolio-First Guide to Stand Out in 2025 [BLOG-Medium](https://medium.com/learning-data/unlock-your-data-career-1feccf56589b)
 <div align='center'>
 <i>By: Yavanika</i>
 </div>
